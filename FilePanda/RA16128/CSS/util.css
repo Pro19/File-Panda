@@ -1,0 +1,15 @@
+.p-t-8 {padding-top: 8px;}
+.p-t-65 {padding-top: 65px;}
+.p-t-155 {padding-top: 155px;}
+.p-b-17 {padding-bottom: 17px;}
+.p-b-31 {padding-bottom: 31px;}
+.p-b-49 {padding-bottom: 49px;}
+.p-b-54 {padding-bottom: 54px;}
+.p-l-55 {padding-left: 55px;}
+.p-r-55 {padding-right: 55px;}
+.m-b-23 {margin-bottom: 23px;}
+.flex-col-c {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}

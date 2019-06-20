@@ -1,0 +1,27 @@
+.body
+{
+	background-image: url("../ART/login-bg-01.jpg");
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+
+.color_box_1
+{
+	background: url("../ART/login-bg-01.jpg");
+}
+
+.color_box_2
+{
+	background: url("../ART/signup-bg-01.jpg");
+}
+
+.color_box_3
+{
+	background: url("../ART/main-bg-01.jpg");
+}
+
+.color_box_4
+{
+	background: url("../ART/upload-bg-01.jpg");
+}
